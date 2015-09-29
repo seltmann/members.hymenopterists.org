@@ -2,6 +2,8 @@
 *.gem
 *.rbc
 /.config
+/db
+vendor/plugins/
 /coverage/
 /InstalledFiles
 /pkg/
